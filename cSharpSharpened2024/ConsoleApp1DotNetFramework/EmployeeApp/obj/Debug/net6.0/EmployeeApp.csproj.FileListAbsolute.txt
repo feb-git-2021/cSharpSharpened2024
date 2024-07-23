@@ -1,0 +1,17 @@
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\obj\Debug\net6.0\EmployeeApp.csproj.AssemblyReference.cache
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\obj\Debug\net6.0\EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\obj\Debug\net6.0\EmployeeApp.AssemblyInfoInputs.cache
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\obj\Debug\net6.0\EmployeeApp.AssemblyInfo.cs
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\obj\Debug\net6.0\EmployeeApp.csproj.CoreCompileInputs.cache
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\bin\Debug\net6.0\EmployeeApp.exe
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\bin\Debug\net6.0\EmployeeApp.deps.json
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\bin\Debug\net6.0\EmployeeApp.runtimeconfig.json
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\bin\Debug\net6.0\EmployeeApp.dll
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\bin\Debug\net6.0\EmployeeApp.pdb
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\obj\Debug\net6.0\EmployeeApp.csproj.CopyComplete
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\obj\Debug\net6.0\EmployeeApp.dll
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\obj\Debug\net6.0\refint\EmployeeApp.dll
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\obj\Debug\net6.0\EmployeeApp.pdb
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\obj\Debug\net6.0\EmployeeApp.genruntimeconfig.cache
+E:\DotNetSharpened18Jun2024\ConsoleApp1DotNetFramework\EmployeeApp\obj\Debug\net6.0\ref\EmployeeApp.dll

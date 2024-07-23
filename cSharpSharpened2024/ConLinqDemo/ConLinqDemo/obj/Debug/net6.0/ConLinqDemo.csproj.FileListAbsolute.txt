@@ -1,0 +1,15 @@
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\bin\Debug\net6.0\ConLinqDemo.exe
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\bin\Debug\net6.0\ConLinqDemo.deps.json
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\bin\Debug\net6.0\ConLinqDemo.runtimeconfig.json
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\bin\Debug\net6.0\ConLinqDemo.dll
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\bin\Debug\net6.0\ConLinqDemo.pdb
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\obj\Debug\net6.0\ConLinqDemo.csproj.AssemblyReference.cache
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\obj\Debug\net6.0\ConLinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\obj\Debug\net6.0\ConLinqDemo.AssemblyInfoInputs.cache
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\obj\Debug\net6.0\ConLinqDemo.AssemblyInfo.cs
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\obj\Debug\net6.0\ConLinqDemo.csproj.CoreCompileInputs.cache
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\obj\Debug\net6.0\ConLinqDemo.dll
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\obj\Debug\net6.0\refint\ConLinqDemo.dll
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\obj\Debug\net6.0\ConLinqDemo.pdb
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\obj\Debug\net6.0\ConLinqDemo.genruntimeconfig.cache
+E:\DotNetSharpened18Jun2024\ConLinqDemo\ConLinqDemo\obj\Debug\net6.0\ref\ConLinqDemo.dll

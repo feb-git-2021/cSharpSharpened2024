@@ -1,0 +1,14 @@
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\bin\Debug\net8.0\ConDelegates.exe
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\bin\Debug\net8.0\ConDelegates.deps.json
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\bin\Debug\net8.0\ConDelegates.runtimeconfig.json
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\bin\Debug\net8.0\ConDelegates.dll
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\bin\Debug\net8.0\ConDelegates.pdb
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\obj\Debug\net8.0\ConDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\obj\Debug\net8.0\ConDelegates.AssemblyInfoInputs.cache
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\obj\Debug\net8.0\ConDelegates.AssemblyInfo.cs
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\obj\Debug\net8.0\ConDelegates.csproj.CoreCompileInputs.cache
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\obj\Debug\net8.0\ConDelegates.dll
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\obj\Debug\net8.0\refint\ConDelegates.dll
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\obj\Debug\net8.0\ConDelegates.pdb
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\obj\Debug\net8.0\ConDelegates.genruntimeconfig.cache
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConExpressionTreeDemo\ConDelegates\ConDelegates\obj\Debug\net8.0\ref\ConDelegates.dll

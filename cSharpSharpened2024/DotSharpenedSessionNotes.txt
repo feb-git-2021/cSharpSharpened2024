@@ -1,0 +1,132 @@
+public class EmployeeTests
+{
+
+ [Fact]
+ public void PerformWorkTest()
+ {
+  //Arrange
+Employee emp = new Employee(.....);
+//Act
+emp.Perform();
+
+//Assert
+Assert.Equal(1,emp.NoOfHoursWorked);
+
+
+ }
+public void CalWageTest()
+{
+Employee emp = new Employee(.....);
+ }
+ }
+-----------------------
+
+27th of Jun 2024
+
+  Exception Handling
+
+      Object, System.Exception, 
+
+
+intParse(string input)
+
+bool TryParse(string input, out int result)
+
+if(conn.State != ConnectionState.Closed)
+ {
+  cn.Close();
+
+}
+
+
+System and Application Exception
+
+
+System	Exceptions
+  Thrown by .Net Runtime(CLR)
+  defined as part of .NET
+  OutOfMemory
+
+
+ThirdParty
+ 	Libraries/frameworks
+          JsonSerialization
+
+
+
+Your Code
+
+
+
+
+            Exception is the base class
+                .SystemException
+                           OutOfMemoryException
+                           StackOverflowException
+                .ArithmaticException
+                .ApplicationException
+                .(custom exception)
+
+
+Switch Expression:
+    public class Calculator
+{
+    public int Calculate(int number1, int number2, string operation)=> operation switch
+    {
+
+       "/"=>Divide(number1,number2),
+        "+"=>Add (number1,number2),
+          _ =>throw new ArgumentNullException(.....)
+
+       
+        string nonNullOperation = operation ?? throw new ArgumentNullException(nameof(operation));
+        if (nonNullOperation == "/")
+        {
+            return Divide(number1, number2);
+        }
+        else
+        {
+            throw new ArgumentOutOfRangeException(nameof(operation), "The math operator is not supported");
+
+        }  
+     
+    }
+
+
+http://bit/ly/netexceptions 
+
+LINQ 
+  IEnumerable<T>, IQueryable<T>
+
+List<Emp>,List<int>
+
+
+//SQL
+ select * from Products where Price >2000 order by Price
+
+
+//C# loop
+List<Product> products = GetProducts();
+List<Product> listProduct = new();
+
+foreach(Product product in products)
+ {
+  if(product.Price>2000)
+    {
+     listProduct.Add(product);
+   }
+}
+
+//LINQ
+ 
+List<Product> products = GetProducts();
+
+var list= (from prod in products
+             where prod.Price >2000
+             select prod).ToList();
+ 
+
+
+ 
+                                 
+

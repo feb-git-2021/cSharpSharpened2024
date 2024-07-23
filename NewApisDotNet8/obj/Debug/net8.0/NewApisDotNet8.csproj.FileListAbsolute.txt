@@ -1,0 +1,14 @@
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\bin\Debug\net8.0\NewApisDotNet8.exe
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\bin\Debug\net8.0\NewApisDotNet8.deps.json
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\bin\Debug\net8.0\NewApisDotNet8.runtimeconfig.json
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\bin\Debug\net8.0\NewApisDotNet8.dll
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\bin\Debug\net8.0\NewApisDotNet8.pdb
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\obj\Debug\net8.0\NewApisDotNet8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\obj\Debug\net8.0\NewApisDotNet8.AssemblyInfoInputs.cache
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\obj\Debug\net8.0\NewApisDotNet8.AssemblyInfo.cs
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\obj\Debug\net8.0\NewApisDotNet8.csproj.CoreCompileInputs.cache
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\obj\Debug\net8.0\NewApisDotNet8.dll
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\obj\Debug\net8.0\refint\NewApisDotNet8.dll
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\obj\Debug\net8.0\NewApisDotNet8.pdb
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\obj\Debug\net8.0\NewApisDotNet8.genruntimeconfig.cache
+D:\Trainings-2024\DotNetSharpened-DAP-4 PM-7PM\ConDotNet8AndCSharp12\NewApisDotNet8\obj\Debug\net8.0\ref\NewApisDotNet8.dll

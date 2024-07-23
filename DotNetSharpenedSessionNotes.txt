@@ -1,0 +1,99 @@
+public bool IsEven(int value){
+     return value %2 ==0;
+}
+num <5
+
+A delegate is a type which encapsulates a method similar to a function pointer in C & C++
+
+
+[CREATE A WEB PROJECT TO WORK WITH EXPRESSION TREES - FILTERING, SORTING  - PENDING]
+
+
+if(pClass != "")
+{
+ passengers = passengers.Where(p=>p.pClass=pClass);
+}
+
+
+//C#12 new features
+. Primary Constructors
+
+class Person(int id, string fname,double age) //class with primary constructor
+ {
+   public Person(){} //error
+   public Person(int id, string fname,double age,string address):this(id,fname,age)
+    {
+    }
+
+ }
+Person obj = new Person(1,"mnm",12);
+. using  on any type
+
+.Inline arrays
+.Default lambda parameters
+.nameof changes
+.CollectionExpressions using terse syntax
+.Interceptors 
+
+
+-------------
+.Net 8 new changes
+
+1. new randomness methods
+       int[] arr =[1,2,3,4];
+       int[] selectedValues= Random.Shared.GetItems(arr,2)
+   int[] selectedValues= Random.Shared.Shuffle(arr)
+2. TimeProvider and ITimer
+      
+3. JSON improvements
+4.Performance focused types
+
+
+
+
+return RedirectToAction(nameof(Index))
+------------------------------
+18th Jul 2024
+
+Interceptors are methods that can replace a call to an interceptable method
+
+
+Randomness
+TimeProvider and ITimer
+JSON improvements
+Performance-focused types
+New Data validation attributes (AllowedValues, DeniedValues)
+
+
+New features of ASP.NEt Core 8 
+
+Route Short-circuting    -- changes in middleware
+
+Keyed service registration   --- Changes DI
+
+New Metrics support
+
+Improved backgroud services
+
+VS2022 has support for .http files
+
+
+Identiy Changes
+http/3 by default
+
+Native AOT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
